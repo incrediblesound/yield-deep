@@ -1,0 +1,14 @@
+{
+    "name": "yield-deep",
+    "version": "0.0.1",
+    "description": "Yields key-value pairs where value is a primitive",
+    "main": "main.js",
+    "author": "James H Edwards",
+    "keywords": ["Generators","Recursion"],
+    "license":"MIT",
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/incrediblesound/yield-deep"
+    },
+    "engines": { "node": "0.11" }
+}
